@@ -33,5 +33,3 @@ Olá! Sou Tarik Dimitri, um Analista de Qualidade de Software com mais de 4 anos
 
 * E-mail: tarik.feitosa@gmail.com
 * LinkedIn: https://www.linkedin.com/in/tarik-dimitri
-
-**Observação:** Os projetos listados acima são exemplos baseados no seu currículo. Você pode adicionar ou modificar os projetos de acordo com seus trabalhos e objetivos.
